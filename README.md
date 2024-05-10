@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 10-05-2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,16 @@
 
 ## Input:
 
+![image](https://github.com/ThakshaRishi/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870423/147aa664-ab1a-43a5-bf98-2553fc0a96c3)
+
+
 ### Output:
 
+![image](https://github.com/ThakshaRishi/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870423/49857473-fd1c-4890-88c1-59d082a3bc04)
 
-### Name:
-### Register Number:
+
+### Name: Thaksha Rishi
+### Register Number:212223100058
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
